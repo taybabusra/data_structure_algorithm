@@ -1,5 +1,5 @@
 # Spanning Treee
-Formal definition of spanning tree is G'*E*(G) thats mean it is subgraph of a graph 
+Formal definition of spanning tree is G'*e*(G) thats mean it is subgraph of a graph 
 ## IMPORTANT Characteristics:
     i) V'=V (means vertex number will be same 
     ii) **E'=|V|-1**

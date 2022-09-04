@@ -5,7 +5,7 @@ int rht[100];
 //Traversal function
 void inorder(int node)
 {
-    if(node==-1)
+    if(node==-1) //terminating condition 
     {
         return;
     }
@@ -23,12 +23,12 @@ int main()
     int n;
     cout<<"Enter the number of node:";
     cin>>n;
-    cout<<"Enter the node:";
+    cout<<"Enter the node:"; //tree input
     for(i=0;i<n;i++)
     {
         cout<<"Root: ";
         cin>>r;
-        cout<<"L"<<"R"<<endl;
+        cout<<"L"<<"R"<<endl;  //left and right node
         cin>>lft[r]>>rht[r];
     }
     int root;

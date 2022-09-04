@@ -9,4 +9,4 @@ This is one kind of graph traversal method ,in which queue data sturcture is use
      i) O(V+E) -->Adjacency Lisr is used
      ii)O $((v^2)$  -->Adjacency matrix is used
      iii)$(ax^2 + bx + c = 0)$ 
-    
+    $\sqrt{3x-1}+(1+x)^2$

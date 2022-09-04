@@ -15,3 +15,8 @@ Formal definition of spanning tree is G'*e*(G) thats mean it is subgraph of a gr
 ![image](https://user-images.githubusercontent.com/71994991/188326337-aa25e32d-7b26-4e8f-ad95-c4dc96b91b72.png)
 ![image](https://user-images.githubusercontent.com/71994991/188326380-460caf4b-10a8-4c0a-8c77-fc75dded949f.png)
 
+
+## Time complexity 
+   i) Prim's algoalgorithm: O(e log v)
+   ii) Kruskal's algorithm: O(e log e)
+

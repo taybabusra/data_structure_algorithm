@@ -1,4 +1,4 @@
-## Tree Traversal 
+## Binary Tree Traversal 
     i)Inorder Traversal ---> left---root---right
     ii)Preorder Traversal -->root---left---right
     iii)Postorder Traversal -->left---right---root

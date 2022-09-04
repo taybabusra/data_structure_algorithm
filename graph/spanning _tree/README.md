@@ -3,6 +3,7 @@ Formal definition of spanning tree is G'*e*(G) thats mean it is subgraph of a gr
 ## IMPORTANT Characteristics:
     i) V'=V (means vertex number will be same 
     ii)**E'=|V|-1**
+    ii)**E'=|V|-1**
 ## Properties of Spanning trees:
     1.Removing one edge to the spanning tree will make the graph disconnected 
     2.Adding one edge to the spanning tree will create a loop
